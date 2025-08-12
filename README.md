@@ -10,7 +10,6 @@ A machine learning project to predict the likelihood of diabetes based on patien
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)<img width="786" height="412" alt="cust_seg" src="https://github.com/user-attachments/assets/7a90fcc5-23f5-48c2-8adc-5d2c5a2af1b7" />
 
 - [Model Training](#model-training)
 - [Results](#results)
